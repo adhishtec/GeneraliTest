@@ -1,0 +1,19 @@
+.expenceDay{
+    color: aliceblue;
+}
+.expenceDate{
+    background-color: rgb(76, 76, 78);
+    border: 1px;
+    border-color: darkturquoise;
+    border-style: solid;
+    border-radius: 13px;
+    width: 17%;
+    padding: 10px;
+    box-shadow: 0 1px 8px rgb(71, 71, 71);
+}
+.expenceYear{
+    font-size: 10px;
+}
+.expenceDay{
+    font-size: 15px;
+}
